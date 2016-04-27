@@ -1,0 +1,18 @@
+<div id="widget-ef58940772d178cd3987a3d308662235579f16d32133366d59e2d299bf9b5662"></div>
+<script type="text/javascript">
+  //<![CDATA[
+  var WidgetConfig = WidgetConfig || {
+    hostname: 'html.applift.com',
+    appToken: 'ef58940772d178cd3987a3d308662235579f16d32133366d59e2d299bf9b5662',
+    widget  : 'carousel' // 'game_list' or 'carousel'
+  };
+  (function () {
+    var widget = document.createElement('script');
+    widget.type  = 'text/javascript';
+    widget.async = true;
+    widget.src   = 'http://cdn.applift.com/widget/html5.js';
+    var script = document.getElementsByTagName('script')[0];
+    script.parentNode.insertBefore(widget, script);
+  })();
+  //]]>
+</script>
